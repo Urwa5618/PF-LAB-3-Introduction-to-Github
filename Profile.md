@@ -10,3 +10,6 @@ git status
 git add
 git commit
 ```
+-Rusiel Lakhani
+*Muhammad Umar
++Urwa Rafique
