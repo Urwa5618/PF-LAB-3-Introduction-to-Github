@@ -12,4 +12,4 @@ git commit
 ```
 -Rusiel Lakhani\
 *Muhammad Umar\
-+Urwa Rafique\
++Urwa Rafique
