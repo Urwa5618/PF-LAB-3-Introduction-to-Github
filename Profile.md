@@ -13,3 +13,6 @@ git commit
 - Rusiel Lakhani
 * Muhammad Umar
 + Urwa Rafique
+1. Burhanuddin Mustafa
+2. Muhammad Faaiz
+3. Ali Asgar
